@@ -1,0 +1,11 @@
+id,nome,destaque,descricao,imagem
+1,HTML,false,Linguagem de marcação para estruturação de páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/html.svg
+2,CSS,false,Linguagem de estilos para definição do design e layout das páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/css.svg
+3,JavaScript,false,Linguagem de programação para interatividade em páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/javascript.svg
+4,TypeScript,true,Superset do JavaScript que adiciona tipagem estática.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/typescript.svg
+5,Node.js,true,Ambiente de execução JavaScript no lado do servidor.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/node.svg
+6,Express.js,false,Framework web minimalista para Node.js.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/express.svg
+7,React,true,Biblioteca JavaScript para construção de interfaces de usuário.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/react.svg
+8,PostgreSQL,false,Sistema de gerenciamento de banco de dados relacional avançado.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/postgresql.svg
+9,Next.js,false,Framework React para construção de aplicações web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/next.svg
+10,Prisma,false,ORM para Node.js e TypeScript com suporte a diversos bancos de dados.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/prisma.svg
