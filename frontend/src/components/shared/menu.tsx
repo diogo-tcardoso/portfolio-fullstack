@@ -23,7 +23,7 @@ function MenuItems (props: {
     return(
         <Link href={props.href} target={props.newTab ? "_blank" : "_self"}>
             <span className={`flex items-center gap-2 text-sm font-bold border-red-600 hover:text-white
-            ${props.selected ? "border-b-3 text-white" : "text-gray-300"}`}>
+            ${props.selected ? "border-b-3 text-white" : "text-zinc-300"}`}>
                 {props.children}
             </span>
 

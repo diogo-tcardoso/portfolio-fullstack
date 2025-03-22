@@ -5,7 +5,7 @@ import Menu from "./menu";
 
 export default function Header (){
     return (
-        <header className="flex items-center h-16 bg-black">
+        <header className="flex items-center h-16 bg-black/50 w-full">
             <Container className="flex-1 flex justify-between items-center">
                 <div className="flex items-center gap-10">
                     <Link href="/" className="hidden sm:block">
