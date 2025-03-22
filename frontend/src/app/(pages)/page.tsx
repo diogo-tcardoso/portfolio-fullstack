@@ -8,7 +8,7 @@ export default async function Home() {
 
   return (
     <>
-      <Principal />
+      <Principal tecnologias={tecnologias.destaques}/>
       <Container className="py-12">
         <Curriculo tecnologias={tecnologias.todas} />
       </Container>

@@ -8,7 +8,7 @@ export interface CurriculoProps {
 export default function Curriculo(props: CurriculoProps){
     return (
         <>
-            <TecnologiasTrabalhadas tecnologias={props.tecnologias} />
+            <TecnologiasTrabalhadas lista={props.tecnologias} />
         </>
     )
 }
