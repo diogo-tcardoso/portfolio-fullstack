@@ -1,9 +1,7 @@
-import Container from "@/components/shared/container";
+import Header from "@/components/shared/header";
 
 export default function Home() {
   return (
-    <Container className="bg-red-500">
-      <div>Início</div>
-    </Container>
+    <Header />
   );
 }
