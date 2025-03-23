@@ -7,7 +7,7 @@ export interface CarrosselImagensProps {
 
 export default function CarroselImagens (props: CarrosselImagensProps) {
     return (
-        <Carousel opts={{loop: true}} className='xl:w-full md:w-11/12 w-7/10'>
+        <Carousel opts={{loop: true}} className='xl:w-9/12 md:w-11/12 w-7/10'>
             <CarouselContent>
                 {props.imagens.map((imagem) => (
                     <CarouselItem key={imagem} className='relative w-full h-96'>

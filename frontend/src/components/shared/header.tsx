@@ -18,7 +18,7 @@ export default function Header (){
                     href="https://www.linkedin.com/in/diogo-tcardoso/"
                     target="_blank"
                     className="bg-red-600 text-sm font-bold px-7 py-1 rounded-full"
-                >Perfil</Link>
+                >LinkedIn</Link>
                 </div>
                 
             </Container>
