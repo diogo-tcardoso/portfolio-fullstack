@@ -22,5 +22,5 @@ export async function getProjects() {
 }
 
 export async function getProject (id: string): Promise<Projeto | null> {
-    return await httpGet(`/api/projetos/${id}`);
+    return await httpGet(`/projetos/${id}`);
 }
