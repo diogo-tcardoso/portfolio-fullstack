@@ -10,7 +10,7 @@ export class ProjetoProvider {
 		const projetos = await this.prisma.projeto.findMany({
 			include: { tecnologias: true },
 		});
-
+		console.log(projetos);
 		return projetos.map((projeto) => ({
 			...projeto,
 			tipo: projeto.tipo as Projeto["tipo"],
